@@ -25,7 +25,7 @@
         "symfony/framework-bundle": "^2.3 || ^3.0 || ^4.0 || ^5.0",
         "symfony/asset": "*",
         "twig/twig": "^2.0",
-        "DessyRascal/image": "2.*"
+        "dessyrascal/image": "dev-master"
     },
     "require-dev": {
         "sllh/php-cs-fixer-styleci-bridge": "~1.1"
